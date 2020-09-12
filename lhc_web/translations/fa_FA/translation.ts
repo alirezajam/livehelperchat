@@ -7,7 +7,7 @@
     </message>
     <message>
       <source>Domains where script can be embedded. E.g example.com, google.com</source>
-      <translation type="unfinished"/>
+      <translation>دامنه هایی که اسکریپت می تواند در آن تعبیه شود. به عنوان مثال example.com ، google.com</translation>
     </message>
     <message>
       <source>Use secure cookie, check this if you want to force SSL all the time</source>
@@ -19,7 +19,7 @@
     </message>
     <message>
       <source>How long keep operators online sessions data? (days)</source>
-      <translation type="unfinished"/>
+      <translation>چه مدت داده های جلسات آنلاین اپراتورها را نگه دارید؟ (روزها)</translation>
     </message>
     <message>
       <source>Enable online site visitors tracking</source>
